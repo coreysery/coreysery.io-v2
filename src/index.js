@@ -1,3 +1,2 @@
-let app = document.querySelector('#app')
+import './theme/index.scss';
 
-app.innerHTML = '<h2>Welcome to v2</h2>'
